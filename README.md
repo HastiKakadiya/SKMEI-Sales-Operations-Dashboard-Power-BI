@@ -68,6 +68,7 @@ To deliver a unified view of **sales and operations performance** enabling manag
 | `SKMEI_Salary_Operations_Dashboard.pbix` | Main Power BI dashboard file |
 | `SKMEI_Sales_and_Operations.pdf` | PDF export of visuals |
 | `model_sales_and_operations.png` | Power BI data model view |
+| `SKMEI_Collection.xlsx` | Web Scrapping and Sample combo dataset used for the dashboard|
 | `README.md` | Documentation and project overview |
 
 ---
