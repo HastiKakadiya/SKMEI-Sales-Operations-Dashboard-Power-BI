@@ -52,8 +52,7 @@ It provides management-level insights on revenue, stock flow, and operational ef
 ---
 
 ## 🖼️ Visuals Preview
-![Sales Dashboard](Sales-Dashboard-Preview.png)
-![Operations Dashboard](Operations-Dashboard-Overview.png)
+![Sales And Operations Dashboard](SKMEI_Sales_and_Operations.pdf)
 ![Data Model](Data-Model-Schema.png)
 
 ---
@@ -68,7 +67,6 @@ To deliver a unified view of **sales and operations performance** enabling manag
 |------|--------------|
 | `SKMEI_Sales_and_Operations.pbix` | Main Power BI dashboard file |
 | `SKMEI_Sales_and_Operations.pdf` | PDF export of visuals |
-| `Dashboard-Preview.png` | Sales dashboard screenshot |
 | `Data-Model-Schema.png` | Power BI data model view |
 | `README.md` | Documentation and project overview |
 
